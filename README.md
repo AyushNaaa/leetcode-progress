@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayush-Narayanaswamy/leetcode-progress/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Ayush-Narayanaswamy/leetcode-progress/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush-Narayanaswamy/leetcode-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Ayush-Narayanaswamy/leetcode-progress/tree/master/0066-plus-one) |
 ## Hash Table
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ayush-Narayanaswamy/leetcode-progress/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Ayush-Narayanaswamy/leetcode-progress/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ayush-Narayanaswamy/leetcode-progress/tree/master/0067-add-binary) |
 ## Binary Search
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush-Narayanaswamy/leetcode-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ayush-Narayanaswamy/leetcode-progress/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
